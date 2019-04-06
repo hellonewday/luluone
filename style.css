@@ -1,0 +1,51 @@
+body {
+     background: #f2f4f7 !important;
+
+}
+
+.background {
+     width: 100%;
+     margin-top: 20px;
+}
+
+.navbar-brand,
+a.nav-link {
+     color: white !important;
+}
+
+.header-topic {
+     font-size: 30px;
+     font-weight: 200;
+
+}
+.about {
+     margin-top: 20px;
+}
+
+.box-content-radius-img {
+     border-radius: 50%;
+     width: 55%;
+}
+
+.box-content-1 {
+     width: 33%;
+     text-align: center;
+     padding: 16px;
+}
+
+.about-content {
+     justify-content: center;
+}
+
+.text-box-content {
+     margin-top: 15px;
+}
+.text-box-title {
+     font-weight: 600;
+     font-size: 18px;
+
+}
+
+.content {
+     text-align: left;
+}
